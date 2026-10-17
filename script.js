@@ -1,7 +1,3 @@
-// ================================
-// Ocean Freight Tracker - JavaScript
-// ================================
-
 document.addEventListener("DOMContentLoaded", () => {
     // Mobile navigation elements
     const menuToggle = document.getElementById("menuToggle");
